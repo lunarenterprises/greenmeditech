@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/static/css/main.ba0139c1.css",
+    "main.js": "/static/js/main.120977fb.js",
+    "static/js/453.b7c90bc0.chunk.js": "/static/js/453.b7c90bc0.chunk.js",
+    "static/media/houseimgbgk.jpg": "/static/media/houseimgbgk.3376d7193e7b0354b252.jpg",
+    "static/media/petshampoo.png": "/static/media/petshampoo.5d9e27c4282648936378.png",
+    "static/media/Logo.png": "/static/media/Logo.ef8ac34dbf373ec547a2.png",
+    "static/media/petcleaner.jpeg": "/static/media/petcleaner.7c28a373828b63e0b618.jpeg",
+    "static/media/noproduct.png": "/static/media/noproduct.bf1fce90abaaa54c3d57.png",
+    "static/media/yafilogo.avif": "/static/media/yafilogo.d1cd85c8176977dde476.avif",
+    "index.html": "/index.html",
+    "main.ba0139c1.css.map": "/static/css/main.ba0139c1.css.map",
+    "main.120977fb.js.map": "/static/js/main.120977fb.js.map",
+    "453.b7c90bc0.chunk.js.map": "/static/js/453.b7c90bc0.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ba0139c1.css",
+    "static/js/main.120977fb.js"
+  ]
+}
